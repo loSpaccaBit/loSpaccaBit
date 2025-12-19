@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=loSpaccaBit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=loSpaccaBit&theme=nord" alt="FrancescoZeno" />
+      <img src="https://github-profile-trophy.vercel.app/?username=loSpaccaBit&theme=nord" alt="loSpaccaBit" />
     </a>
   </p>
 </p>
