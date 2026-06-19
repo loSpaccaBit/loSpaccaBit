@@ -1,158 +1,85 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loSpaccaBit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# Hi, I'm Francesco (loSpaccaBit) 👋
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=loSpaccaBit&theme=nord&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
+## Full-Stack Developer · Backend-Focused · CS Student
 
-<h1 align="center">👋 Ciao, sono Francesco (loSpaccaBit)</h1>
-<h3 align="center">
-  Software Developer • Studente di Informatica • Problem Solver
-</h3>
+I design and build complete digital products: from robust APIs and databases to modern web and mobile interfaces.  
+I care about clean architecture, security, performance, and code that teams can maintain and scale.
 
-<p align="center">
-  💻 Sviluppo applicazioni web moderne, backend robusti e software scalabili<br/>
-  🧠 La mia filosofia: capire profondamente i sistemi, non solo farli funzionare<br/>
-  🔐 Ossessionato da performance, sicurezza e clean code<br/>
-  🚀 Sempre alla ricerca di nuove tecnologie e best practices
-</p>
+- 🔭 **Currently working on:** production-ready APIs, event-driven systems and cross-platform mobile apps.
+- 🌱 **Learning:** advanced system design, cloud infrastructure and DevOps.
+- 💬 **Ask me about:** Node.js, TypeScript, Flutter, PostgreSQL, Docker, API design.
+- 🚀 **Open to:** full-stack, backend and mobile internship/junior roles.
+- 📫 **Reach me at:** [LinkedIn](www.linkedin.com/in/francesco-pio-nocerino) 
 
 ---
 
-<h2 align="center">🧑‍💻 Chi sono</h2>
+## 🛠️ Tech Stack
 
-<p align="center">
-  Sono <b>Francesco</b>, un developer italiano 🇮🇹 appassionato di tecnologia.<br/>
-  Scrivo codice da diversi anni, trasformando problemi complessi in soluzioni eleganti.<br/>
-  <br/>
-  🎯 <b>Focus attuale:</b> Architetture distribuite, ottimizzazione delle performance e sicurezza applicativa<br/>
-  📚 <b>Sto imparando:</b> Design patterns avanzati, DevOps e cloud infrastructure<br/>
-  💡 <b>Mi piace:</b> Refactoring, code review e condividere conoscenza con la community<br/>
-  <br/>
-  Su GitHub trovi i miei esperimenti, tool personali e contributi open source.<br/>
-  Credo nel potere della collaborazione e della condivisione della conoscenza.
-</p>
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
----
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-<h2 align="center">⚙️ Stack Tecnologico</h2>
+### Databases & Cache
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-<h3 align="center">Backend & Sistemi</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
-
-<h3 align="center">Frontend & UI</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<h3 align="center">Styling & Framework</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</p>
-
-<h3 align="center">Database & Storage</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
-</p>
-
-<h3 align="center">DevOps & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loSpaccaBit&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+### [TaskFlow API](https://github.com/loSpaccaBit/taskflow-api)
+A production-ready REST API with authentication, role-based access control, caching, rate limiting and automated tests.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loSpaccaBit&theme=nord&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loSpaccaBit&layout=compact&theme=nord&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+`Node.js` `TypeScript` `PostgreSQL` `Redis` `Docker` `Jest` `GitHub Actions`
 
 ---
 
-<h2 align="center">🌟 Progetti in Evidenza</h2>
+### [Order Service Demo](https://github.com/loSpaccaBit/order-service-demo)
+Event-driven microservices architecture. Services communicate asynchronously through a message broker.
 
-<p align="center">
-  Dai un'occhiata ai miei repository pinnati per vedere i progetti a cui tengo di più!<br/>
-  Sono sempre aperto a feedback, collaborazioni e discussioni tecniche.
-</p>
+`Node.js` `RabbitMQ` `PostgreSQL` `Docker` `Microservices`
 
 ---
 
-<h2 align="center">📫 Contattami</h2>
+### [WebWrap](https://github.com/loSpaccaBit/webwrapper-flutter)
+Turn any website into a native mobile app with Flutter. Configurable via YAML, offline support, adaptive theming and store-ready.
 
-<p align="center">
-  Hai un progetto interessante? Vuoi collaborare? Scrivimi!<br/>
-  <br/>
-  <a href="https://github.com/loSpaccaBit">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://app.daily.dev/lospaccabit">
-    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" />
-  </a>
-</p>
+`Flutter` `Dart` `YAML` `Mobile` `MIT License`
 
 ---
 
-<h2 align="center">☕ Supporta il mio lavoro</h2>
+### [Git Stats CLI](https://github.com/loSpaccaBit/git-stats-cli)
+A command-line tool to analyze Git repositories and generate insightful reports.
 
-<p align="center">
-  Se trovi utile qualcosa che condivido o apprezzi il mio contributo alla community,<br/>
-  puoi offrirmi un caffè per mantenere alta la produttività! ☕
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
+`TypeScript` `Node.js` `CLI` `GitHub Actions`
 
 ---
 
-<p align="center">
-  <a href="https://app.daily.dev/lospaccabit">
-    <img src="https://api.daily.dev/devcards/v2/gsznj3r1nh2g40qkFmVro.png?r=j0c" width="350" alt="Francesco's Dev Card"/>
-  </a>
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <i>💻 "Il codice è poesia, ma solo se è ben indentato" 💻</i>
-</p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=loSpaccaBit&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loSpaccaBit&layout=compact&theme=github_dark&hide_border=true)
+
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:7289DA&height=120&section=footer" />
-</p>
+_"Clean code, clear APIs, solid systems — from backend to frontend."_
