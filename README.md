@@ -54,12 +54,6 @@ A production-ready REST API with authentication, role-based access control, cach
 
 ---
 
-### [Order Service Demo](https://github.com/loSpaccaBit/order-service-demo)
-Event-driven microservices architecture. Services communicate asynchronously through a message broker.
-
-`Node.js` `RabbitMQ` `PostgreSQL` `Docker` `Microservices`
-
----
 
 ### [WebWrap](https://github.com/loSpaccaBit/webwrapper-flutter)
 Turn any website into a native mobile app with Flutter. Configurable via YAML, offline support, adaptive theming and store-ready.
@@ -68,12 +62,6 @@ Turn any website into a native mobile app with Flutter. Configurable via YAML, o
 
 ---
 
-### [Astro Portfolio](https://github.com/loSpaccaBit/astro-portfolio)
-A fast, SEO-friendly personal portfolio and blog built with Astro, TypeScript and Tailwind CSS. Server-side rendered with zero JavaScript by default.
-
-`Astro` `TypeScript` `Tailwind CSS` `Markdown` `Static Site`
-
----
 
 ### [Astro Landing Kit](https://github.com/loSpaccaBit/astro-landing-kit)
 A collection of high-converting, accessible landing page templates built with Astro, Tailwind CSS and TypeScript. Optimized for Core Web Vitals and SEO.
