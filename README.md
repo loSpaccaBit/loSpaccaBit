@@ -1,26 +1,61 @@
 <div align="center">
 
-# Hi, I'm Francesco Pio Nocerino 👋
+<img src="https://shieldcn.dev/header/grid.svg?title=Francesco%20Pio%20Nocerino&subtitle=Fullstack%20developer%20%C2%B7%20Founder%20%40%20IDEAS%20S.R.L." alt="Francesco Pio Nocerino" width="100%" />
 
-** Full-Stack Dev
- 💻  Backend-focused 
-⚡  Astro, Next.js, Flutter 
-🚀  APIs, dashboards & clean code**
+<br />
 
-<a href="https://github.com/loSpaccaBit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40loSpaccaBit-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40loSpaccaBit-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
-
-<a href="https://github.com/loSpaccaBit?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/loSpaccaBit.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/loSpaccaBit.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/loSpaccaBit.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/loSpaccaBit.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-24-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-24-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-Italy-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-Italy-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture>
+<a href="https://github.com/loSpaccaBit"><img src="https://shieldcn.dev/github/followers/loSpaccaBit.svg?variant=secondary" alt="GitHub followers" /></a>
+<a href="https://github.com/loSpaccaBit"><img src="https://shieldcn.dev/github/user-stars/loSpaccaBit.svg?variant=secondary" alt="GitHub stars" /></a>
+<a href="https://fnbit.net"><img src="https://shieldcn.dev/badge/blog-fnbit.net-blue.svg?logo=lu:Globe&variant=secondary" alt="Blog" /></a>
 
 </div>
 
-## 🛠️ Skills & Technologies
+---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Dart-0175C2.svg?logo=dart&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Dart" src="https://www.shieldcn.dev/badge/-Dart-0175C2.svg?logo=dart&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="C++" src="https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Python" src="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="TypeScript" src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Swift-F05138.svg?logo=swift&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Swift" src="https://www.shieldcn.dev/badge/-Swift-F05138.svg?logo=swift&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Vue-4FC08D.svg?logo=vuedotjs&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Vue" src="https://www.shieldcn.dev/badge/-Vue-4FC08D.svg?logo=vuedotjs&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Go" src="https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
+## 👋 Chi sono
 
-## 📦 Top Repositories
+Sviluppatore fullstack e imprenditore, di base nell'area di Napoli. Gestisco **IDEAS S.R.L.**, una web agency, e mi piace trasformare idee in prodotti: meno lavoro "a commessa", più cose costruite da zero.
 
-<a href="https://github.com/loSpaccaBit/webwrapper-flutter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/loSpaccaBit/webwrapper-flutter.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="webwrapper-flutter ⭐ 22" src="https://www.shieldcn.dev/github/stars/loSpaccaBit/webwrapper-flutter.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit/color"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/loSpaccaBit/color.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="color ⭐ 2" src="https://www.shieldcn.dev/github/stars/loSpaccaBit/color.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit/Battaglia-Navale-Battleship-"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/loSpaccaBit/Battaglia-Navale-Battleship-.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Battaglia-Navale-Battleship- ⭐ 1" src="https://www.shieldcn.dev/github/stars/loSpaccaBit/Battaglia-Navale-Battleship-.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit/codiceFiscale"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/loSpaccaBit/codiceFiscale.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="codiceFiscale ⭐ 1" src="https://www.shieldcn.dev/github/stars/loSpaccaBit/codiceFiscale.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit/Tris_Tic-Tac-Toe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/loSpaccaBit/Tris_Tic-Tac-Toe.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Tris_Tic-Tac-Toe ⭐ 1" src="https://www.shieldcn.dev/github/stars/loSpaccaBit/Tris_Tic-Tac-Toe.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
+Cerco sempre l'innovazione radicale più che il miglioramento incrementale.
+
+## 🚀 Cosa sto costruendo
+
+- **[fnbit.net](https://fnbit.net)** — il mio blog: tecnologia, news, AI e sviluppo, con punti di vista ed esperienze personali.
+- **AI Food Planner** — app mobile (Tauri 2 + core in Rust) per piani pasto generati con l'AI.
+- **Kibo** — pianificazione pasti, dispensa e lista della spesa smart, con una mascotte foca 🦭.
+- **MyAfters** — piattaforma di staffing per l'hospitality.
+- **Ottimizzatore Astro in Rust** — un tool per migliorare davvero le performance dei siti Astro.
+
+## 🛠️ Stack
+
+**Frontend**
+
+![Next.js](https://shieldcn.dev/badge/frontend-Next.js-black.svg?logo=nextdotjs&variant=secondary)
+![Astro](https://shieldcn.dev/badge/frontend-Astro-orange.svg?logo=astro&variant=secondary)
+![Vue](https://shieldcn.dev/badge/frontend-Vue-green.svg?logo=vuedotjs&variant=secondary)
+![Tailwind CSS](https://shieldcn.dev/badge/frontend-Tailwind%20CSS-cyan.svg?logo=tailwindcss&variant=secondary)
+
+**Backend & dati**
+
+![Go](https://shieldcn.dev/badge/backend-Go-cyan.svg?logo=go&variant=secondary)
+![Rust](https://shieldcn.dev/badge/backend-Rust-orange.svg?logo=rust&variant=secondary)
+![Strapi](https://shieldcn.dev/badge/cms-Strapi-violet.svg?logo=strapi&variant=secondary)
+![PostgreSQL](https://shieldcn.dev/badge/db-PostgreSQL-blue.svg?logo=postgresql&variant=secondary)
+
+**Infrastruttura**
+
+![Proxmox](https://shieldcn.dev/badge/infra-Proxmox-orange.svg?logo=proxmox&variant=secondary)
+![OPNsense](https://shieldcn.dev/badge/network-OPNsense-orange.svg?logo=opnsense&variant=secondary)
+![Nginx](https://shieldcn.dev/badge/web-Nginx-green.svg?logo=nginx&variant=secondary)
+![Cloudflare](https://shieldcn.dev/badge/edge-Cloudflare-orange.svg?logo=cloudflare&variant=secondary)
+
+## 📫 Dove trovarmi
+
+- 🌐 Blog: [fnbit.net](https://fnbit.net)
+- 💻 GitHub: [@loSpaccaBit](https://github.com/loSpaccaBit)
 
 ---
 
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
+<div align="center">
+<sub>Badge by <a href="https://shieldcn.dev">shieldcn</a></sub>
+</div>
