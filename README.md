@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://shieldcn.dev/header/grid.svg?title=Francesco%20Pio%20Nocerino&subtitle=Fullstack%20developer%20%C2%B7%20" alt="Francesco Pio Nocerino" width="100%" />
+<img src="https://shieldcn.dev/header/grid.svg?title=Francesco%20Pio%20Nocerino&subtitle=Fullstack%20developer%20%C2%B7%20Entrepreneur" alt="Francesco Pio Nocerino" width="100%" />
 
 <br />
 
@@ -14,7 +14,7 @@
 
 ## 👋 Chi sono
 
-Sviluppatore fullstack e imprenditore, di base nell'area di Napoli. Gestisco **IDEAS S.R.L.**, una web agency, e mi piace trasformare idee in prodotti: meno lavoro "a commessa", più cose costruite da zero.
+Sviluppatore fullstack e imprenditore, di base nell'area di Napoli. Gestisco una web agency e mi piace trasformare idee in prodotti: meno lavoro "a commessa", più cose costruite da zero.
 
 Cerco sempre l'innovazione radicale più che il miglioramento incrementale.
 
