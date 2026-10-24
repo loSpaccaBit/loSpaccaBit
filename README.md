@@ -1,88 +1,26 @@
-# Hi, I'm Francesco (loSpaccaBit) 👋
+<div align="center">
 
-## Full-Stack Developer · Backend & Frontend Specialist
+# Hi, I'm Francesco Pio Nocerino 👋
 
-I design and build complete digital products: from robust APIs and databases to fast, modern web interfaces and cross-platform mobile apps.  
-I care about clean architecture, security, performance, and code that teams can maintain and scale.
+** Full-Stack Dev
+ 💻  Backend-focused 
+⚡  Astro, Next.js, Flutter 
+🚀  APIs, dashboards & clean code**
 
-- 🔭 **Currently working on:** production-ready APIs, server-rendered websites with Astro (blogs, landing pages, portfolios) and cross-platform mobile apps.
-- 🌱 **Learning:** advanced system design, cloud infrastructure and DevOps.
-- 💬 **Ask me about:** Node.js, TypeScript, Astro, Next.js, TanStack Start, Flutter, PostgreSQL, Docker.
-- 🚀 **Open to:** full-stack, frontend and backend internship/junior roles.
-- 📫 **Reach me at:** [LinkedIn](www.linkedin.com/in/francesco-pio-nocerino) 
+<a href="https://github.com/loSpaccaBit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40loSpaccaBit-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40loSpaccaBit-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 
----
+<a href="https://github.com/loSpaccaBit?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/loSpaccaBit.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/loSpaccaBit.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/loSpaccaBit.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/loSpaccaBit.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-24-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-24-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-Italy-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-Italy-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture>
 
-## 🛠️ Tech Stack
+</div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+## 🛠️ Skills & Technologies
 
-### Frontend & Mobile
-![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![TanStack Start](https://img.shields.io/badge/-TanStack_Start-FF4154?logo=tanstack&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Dart-0175C2.svg?logo=dart&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Dart" src="https://www.shieldcn.dev/badge/-Dart-0175C2.svg?logo=dart&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="C++" src="https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Python" src="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="TypeScript" src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Swift-F05138.svg?logo=swift&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Swift" src="https://www.shieldcn.dev/badge/-Swift-F05138.svg?logo=swift&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Vue-4FC08D.svg?logo=vuedotjs&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Vue" src="https://www.shieldcn.dev/badge/-Vue-4FC08D.svg?logo=vuedotjs&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Go" src="https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
 
-### Databases & Cache
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+## 📦 Top Repositories
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+<a href="https://github.com/loSpaccaBit/webwrapper-flutter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/loSpaccaBit/webwrapper-flutter.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="webwrapper-flutter ⭐ 22" src="https://www.shieldcn.dev/github/stars/loSpaccaBit/webwrapper-flutter.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit/color"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/loSpaccaBit/color.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="color ⭐ 2" src="https://www.shieldcn.dev/github/stars/loSpaccaBit/color.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit/Battaglia-Navale-Battleship-"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/loSpaccaBit/Battaglia-Navale-Battleship-.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Battaglia-Navale-Battleship- ⭐ 1" src="https://www.shieldcn.dev/github/stars/loSpaccaBit/Battaglia-Navale-Battleship-.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit/codiceFiscale"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/loSpaccaBit/codiceFiscale.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="codiceFiscale ⭐ 1" src="https://www.shieldcn.dev/github/stars/loSpaccaBit/codiceFiscale.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/loSpaccaBit/Tris_Tic-Tac-Toe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/loSpaccaBit/Tris_Tic-Tac-Toe.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Tris_Tic-Tac-Toe ⭐ 1" src="https://www.shieldcn.dev/github/stars/loSpaccaBit/Tris_Tic-Tac-Toe.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
 
 ---
 
-## 🚀 Featured Projects
-
-### [TaskFlow API](https://github.com/loSpaccaBit/taskflow-api)
-A production-ready REST API with authentication, role-based access control, caching, rate limiting and automated tests.
-
-`Node.js` `TypeScript` `PostgreSQL` `Redis` `Docker` `Jest` `GitHub Actions`
-
----
-
-
-### [WebWrap](https://github.com/loSpaccaBit/webwrapper-flutter)
-Turn any website into a native mobile app with Flutter. Configurable via YAML, offline support, adaptive theming and store-ready.
-
-`Flutter` `Dart` `YAML` `Mobile` `MIT License`
-
----
-
-
-### [Astro Landing Kit](https://github.com/loSpaccaBit/astro-landing-kit)
-A collection of high-converting, accessible landing page templates built with Astro, Tailwind CSS and TypeScript. Optimized for Core Web Vitals and SEO.
-
-`Astro` `TypeScript` `Tailwind CSS` `Landing Page` `SEO`
-
----
-
-### [Git Stats CLI](https://github.com/loSpaccaBit/git-stats-cli)
-A command-line tool to analyze Git repositories and generate insightful reports.
-
-`TypeScript` `Node.js` `CLI` `GitHub Actions`
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=loSpaccaBit&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loSpaccaBit&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-_"Clean code, clear APIs, solid systems — from backend to frontend."_
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
