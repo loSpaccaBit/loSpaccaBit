@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://shieldcn.dev/header/grid.svg?title=Francesco%20Pio%20Nocerino&subtitle=Fullstack%20developer%20%C2%B7%20Founder%20%40%20IDEAS%20S.R.L." alt="Francesco Pio Nocerino" width="100%" />
+<img src="https://shieldcn.dev/header/grid.svg?title=Francesco%20Pio%20Nocerino&subtitle=Fullstack%20developer%20%C2%B7%20" alt="Francesco Pio Nocerino" width="100%" />
 
 <br />
 
